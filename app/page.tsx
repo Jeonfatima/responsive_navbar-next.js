@@ -26,15 +26,15 @@ export default function Home() {
       >
         {/* First box */}
         <div className="bg-pink-500 p-5 flex items-center justify-center text-center w-full font-bold text-3xl rounded-3xl md:col-span-2">
-        "Dream big, work hard, achieve more."
+        Dream big, work hard, achieve more.
         </div>
         {/* Second box */}
         <div className="bg-purple-500 p-5  w-full flex items-center text-center justify-center font-bold text-3xl rounded-3xl">
-        "Success starts with self-belief."
+        Success starts with self-belief.
         </div>
         {/* Third box */}
         <div className="bg-blue-400 p-5 w-full flex items-center text-center justify-center font-bold text-3xl rounded-3xl">
-        "Every step forward is progress."
+        Every step forward is progress.
         </div>
       </div>
     </div>
